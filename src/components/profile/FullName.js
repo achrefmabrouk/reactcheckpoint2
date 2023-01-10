@@ -1,7 +1,7 @@
 const Fullname = () => {
     return (
         <div>
-           <h3>ACHREF MABROUK</h3>
+           <h3>NIDHAL CHAIRI</h3>
         </div>
     )
 }

@@ -1,7 +1,7 @@
 const Photoprofile = () => {
     return (
         <div>
-<img src ={'./photo1.jpg'}  alt ='image1' />
+<img src ={'./nidhal.png'}  alt ='image1' />
         </div>
     )
 }
